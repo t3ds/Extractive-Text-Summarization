@@ -25,3 +25,6 @@ You can read more about GloVe Embeddings Here: https://nlp.stanford.edu/projects
 8. Now we have a matrix of vectors representing each sentence inthe input file, we run the textrank algorithm using the NetworkX package.
 
 9. We then extract the top 'n' sentences('n' can be set by the user) as a summary.
+
+
+PPT: Coming Soon
